@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "access.C": "cpp",
+        "stat.h": "c",
+        "atomic": "c",
+        "cstdint": "c",
+        "random": "c",
+        "*.tcc": "c",
+        "unistd.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
